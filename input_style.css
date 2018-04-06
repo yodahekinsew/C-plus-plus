@@ -1,0 +1,60 @@
+body {
+	background-color: #003b4c;
+	text-align: center;
+	margin: 14rem 1rem 1rem 1rem;
+}
+*{
+	transition: all 300ms;
+}
+#logo{
+	height: 10rem;
+
+
+}
+#country{
+	width: 20rem;
+	height:2rem ;
+	border-radius: 8px;
+	background-color: #cecdcc;
+
+}
+
+#heading{
+	font-family: 'Berkshire Swash', cursive;
+	font-size: 1.5rem;
+	color: #cecdcc;
+}
+#select_ori{
+	font-family:  "adelle","Georgia","Times New Roman",serif;
+	font-size: 1.25rem;
+	color: #cecdcc;
+}
+
+#store{
+	background-color: grey;
+	color: #003b4c;
+	height:2rem;
+	width:5rem;
+	border: none;
+	border-radius: 8px;
+
+}
+button:hover{
+	background-color:#cecdcc !important;
+}
+#done{
+	background-color: grey;
+	color: #003b4c;	
+	height:2rem;
+	width:5rem;
+	border: none;
+	border-radius: 8px;
+}
+#clear{
+	background-color: grey;
+	color: #003b4c;
+	height:2rem;
+	width:5rem;	
+	border: none;
+	border-radius: 8px;
+}
